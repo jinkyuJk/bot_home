@@ -1,0 +1,7 @@
+[DEBUG|open_api.py:303] 2021-06-07 14:45:53,438 > connected
+[DEBUG|open_api.py:244] 2021-06-07 14:45:53,440 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:251] 2021-06-07 14:45:53,440 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:247] 2021-06-07 14:45:53,441 > 계좌번호 : 8166753011
+[DEBUG|open_api.py:160] 2021-06-07 14:45:53,441 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api.py:174] 2021-06-07 14:45:53,441 > 모의투자 1!!
+[DEBUG|open_api.py:207] 2021-06-07 14:45:53,441 > db name !!! : JackBot1_imi1
